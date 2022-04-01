@@ -1,4 +1,4 @@
-# Image Caption Generator
+'#' <h1> Image Caption Generator </h1>
 
 Problem Statement:
 We aim to build an Image Captioning Bot using machine learning algorithms and designing a user interface for the user to get caption for the image..
